@@ -24,8 +24,9 @@
         </script></nav></div><div class="container mainContainer"><div class="wrapper"><div class="post"><header class="postHeader"><a class="edit-page-link button" href="https://github.com/admob-suite/admob-suite/edit/master/docs/show-interstitial.md" target="_blank" rel="noreferrer noopener">Edit</a><h1 class="postHeaderTitle">Showing Interstitial Ad</h1></header><article><div><span><pre><code class="hljs css languages- js"><span class="hljs-built_in">document</span>.addEventListener(<span class="hljs-string">'deviceready'</span>, () =&gt; {
   admob.interstitial.load({
     <span class="hljs-attr">id</span>: {
-      <span class="hljs-attr">android</span>: <span class="hljs-string">'ca-app-pub-xxx/yyy'</span>,  <span class="hljs-comment">// replace with your ad unit ID for android</span>
-      ios: <span class="hljs-string">'ca-app-pub-xxx/zzz'</span>,  <span class="hljs-comment">// replace with your ad unit ID for ios</span>
+      <span class="hljs-comment">// replace with your ad unit IDs</span>
+      android: <span class="hljs-string">'ca-app-pub-xxx/yyy'</span>,
+      <span class="hljs-attr">ios</span>: <span class="hljs-string">'ca-app-pub-xxx/zzz'</span>,
     },
   }).then(<span class="hljs-function"><span class="hljs-params">()</span> =&gt;</span> admob.interstitial.show())
 }, <span class="hljs-literal">false</span>)
