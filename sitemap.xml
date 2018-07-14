@@ -3,4 +3,5 @@
 <url> <loc>https://admob-suite.github.io/index.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://admob-suite.github.io/en/index.html" /> </url>
 <url> <loc>https://admob-suite.github.io/docs/faq.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://admob-suite.github.io/docs/faq.html" /> </url>
 <url> <loc>https://admob-suite.github.io/docs/installation.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://admob-suite.github.io/docs/installation.html" /> </url>
+<url> <loc>https://admob-suite.github.io/docs/show-interstitial.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://admob-suite.github.io/docs/show-interstitial.html" /> </url>
 </urlset>
