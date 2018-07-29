@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://admob-suite.github.io/blog</id>
-    <title>AdMob Suite Blog</title>
+    <id>https://admob-plus.github.io/blog</id>
+    <title>AdMob Plus Blog</title>
     <updated>2018-07-15T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
-    <link rel="alternate" href="https://admob-suite.github.io/blog"/>
-    <subtitle>The best place to stay up-to-date with the latest AdMob Suite news and events.</subtitle>
-    <logo>https://admob-suite.github.io/undefined</logo>
+    <link rel="alternate" href="https://admob-plus.github.io/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest AdMob Plus news and events.</subtitle>
+    <logo>https://admob-plus.github.io/undefined</logo>
     <entry>
         <title type="html"><![CDATA[History of cordova-plugin-admob-free]]></title>
-        <id>https://admob-suite.github.io/blog/2018/07/15/history-of-cordova-plugin-admob-free.html</id>
-        <link href="https://admob-suite.github.io/blog/2018/07/15/history-of-cordova-plugin-admob-free.html">
+        <id>https://admob-plus.github.io/blog/2018/07/15/history-of-cordova-plugin-admob-free.html</id>
+        <link href="https://admob-plus.github.io/blog/2018/07/15/history-of-cordova-plugin-admob-free.html">
         </link>
         <updated>2018-07-15T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>2 years ago, I have a cordova project needed to add Google AdMob for showing ads. I was searching an open source solution, soon landed to the popular <a href="https://www.npmjs.com/package/cordova-plugin-admobpro">cordova-plugin-admobpro</a>.</p>
