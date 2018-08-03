@@ -4,6 +4,7 @@
 <url> <loc>https://admob-plus.github.io/blog/2018/07/15/history-of-cordova-plugin-admob-free.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://admob-plus.github.io/docs/faq.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://admob-plus.github.io/docs/faq.html" /> </url>
 <url> <loc>https://admob-plus.github.io/docs/installation.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://admob-plus.github.io/docs/installation.html" /> </url>
+<url> <loc>https://admob-plus.github.io/docs/ionic.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://admob-plus.github.io/docs/ionic.html" /> </url>
 <url> <loc>https://admob-plus.github.io/docs/show-banner.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://admob-plus.github.io/docs/show-banner.html" /> </url>
 <url> <loc>https://admob-plus.github.io/docs/show-interstitial.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://admob-plus.github.io/docs/show-interstitial.html" /> </url>
 <url> <loc>https://admob-plus.github.io/docs/show-reward-video.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://admob-plus.github.io/docs/show-reward-video.html" /> </url>
