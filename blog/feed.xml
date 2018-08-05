@@ -4,7 +4,7 @@
         <title>AdMob Plus Blog</title>
         <link>https://admob-plus.github.io/blog</link>
         <description>The best place to stay up-to-date with the latest AdMob Plus news and events.</description>
-        <lastBuildDate>Sun, 15 Jul 2018 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Aug 2018 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -12,6 +12,14 @@
             <url>https://admob-plus.github.io/undefined</url>
             <link>https://admob-plus.github.io/blog</link>
         </image>
+        <item>
+            <title><![CDATA[How cordova-plugin-admobpro works]]></title>
+            <link>https://admob-plus.github.io/blog/2018/08/05/how-cordova-plugin-admobpro-works.html</link>
+            <guid>https://admob-plus.github.io/blog/2018/08/05/how-cordova-plugin-admobpro-works.html</guid>
+            <pubDate>Sun, 05 Aug 2018 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>I believe most <a href="https://www.npmjs.com/package/cordova-plugin-admobpro"><code>cordova-plugin-admobpro</code></a> users do not know how the plugin works, as the author does not explain it or intentionally hide it. This blog post is going to uncover the details, so u</p>
+]]></description>
+        </item>
         <item>
             <title><![CDATA[History of cordova-plugin-admob-free]]></title>
             <link>https://admob-plus.github.io/blog/2018/07/15/history-of-cordova-plugin-admob-free.html</link>
