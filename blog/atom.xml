@@ -6,7 +6,7 @@
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://admob-plus.github.io/blog"/>
     <subtitle>The best place to stay up-to-date with the latest AdMob Plus news and events.</subtitle>
-    <logo>https://admob-plus.github.io/undefined</logo>
+    <logo>https://admob-plus.github.io/img/logo.png</logo>
     <entry>
         <title type="html"><![CDATA[How cordova-plugin-admobpro works]]></title>
         <id>https://admob-plus.github.io/blog/2018/08/05/how-cordova-plugin-admobpro-works.html</id>
