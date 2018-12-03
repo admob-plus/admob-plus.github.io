@@ -5,6 +5,7 @@
 <url> <loc>https://admob-plus.github.io/users.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://admob-plus.github.io/en/users.html" /> </url>
 <url> <loc>https://admob-plus.github.io/blog/2018/08/05/how-cordova-plugin-admobpro-works.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://admob-plus.github.io/blog/2018/07/15/history-of-cordova-plugin-admob-free.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://admob-plus.github.io/docs/ad-request-options.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://admob-plus.github.io/docs/ad-request-options.html" /> </url>
 <url> <loc>https://admob-plus.github.io/docs/faq.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://admob-plus.github.io/docs/faq.html" /> </url>
 <url> <loc>https://admob-plus.github.io/docs/installation.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://admob-plus.github.io/docs/installation.html" /> </url>
 <url> <loc>https://admob-plus.github.io/docs/ionic.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://admob-plus.github.io/docs/ionic.html" /> </url>
