@@ -13,7 +13,7 @@
         <link href="https://admob-plus.github.io/blog/2018/08/05/how-cordova-plugin-admobpro-works.html">
         </link>
         <updated>2018-08-05T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>I believe most <a href="https://www.npmjs.com/package/cordova-plugin-admobpro"><code>cordova-plugin-admobpro</code></a> users do not know how the plugin works, as the author does not explain it or intentionally hide it. This blog post is going to uncover the details, so users could have better understanding about what is added to ...</p>]]></summary>
+        <summary type="html"><![CDATA[<p>I believe most <a href="https://www.npmjs.com/package/cordova-plugin-admobpro"><code>cordova-plugin-admobpro</code></a> users do not know how the plugin works, as the author does not explain it or intentionally hide it. This blog post is going to uncover the details, so users could have better understanding about what is added to...</p>]]></summary>
         <author>
             <name>Ratson</name>
             <uri>https://github.com/ratson</uri>
