@@ -6,7 +6,7 @@
         <description>The best place to stay up-to-date with the latest AdMob Plus news and events.</description>
         <lastBuildDate>Sun, 05 Aug 2018 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>Feed for Node.js</generator>
+        <generator>https://github.com/jpmonette/feed</generator>
         <image>
             <title>AdMob Plus Blog</title>
             <url>https://admob-plus.github.io/img/logo.png</url>
