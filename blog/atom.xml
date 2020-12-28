@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://admob-plus.github.io/blog</id>
+    <title>AdMob Plus Blog</title>
+    <updated>2018-08-05T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://admob-plus.github.io/blog"/>
+    <subtitle>AdMob Plus Blog</subtitle>
+    <icon>https://admob-plus.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How cordova-plugin-admobpro works]]></title>
+        <id>How cordova-plugin-admobpro works</id>
+        <link href="https://admob-plus.github.io/blog/2018/08/05/how-cordova-plugin-admobpro-works"/>
+        <updated>2018-08-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I believe most cordova-plugin-admobpro users do not know how the plugin works, as the author does not explain it or intentionally hide it. This blog post is going to uncover the details, so users could have better understanding about what is added to their projects.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[History of cordova-plugin-admob-free]]></title>
+        <id>History of cordova-plugin-admob-free</id>
+        <link href="https://admob-plus.github.io/blog/2018/07/15/history-of-cordova-plugin-admob-free"/>
+        <updated>2018-07-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2 years ago, I have a cordova project needed to add Google AdMob for showing ads. I was searching an open source solution, soon landed to the popular cordova-plugin-admobpro.]]></summary>
+    </entry>
+</feed>
