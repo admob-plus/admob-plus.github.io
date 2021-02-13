@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{73:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"cordova-plugin-admobpro","name":"cordova-plugin-admobpro","count":1,"permalink":"/blog/tags/cordova-plugin-admobpro"}')}}]);
