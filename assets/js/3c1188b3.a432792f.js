@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[26],{98:function(o){o.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"How cordova-plugin-admobpro works","permalink":"/blog/2018/08/05/how-cordova-plugin-admobpro-works"},{"title":"History of cordova-plugin-admob-free","permalink":"/blog/2018/07/15/history-of-cordova-plugin-admob-free"}]}')}}]);
