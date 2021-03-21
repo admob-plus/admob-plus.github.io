@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://admob-plus.github.io/blog</id>
     <title>AdMob Plus Blog</title>
-    <updated>2018-08-05T00:00:00.000Z</updated>
+    <updated>2020-03-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://admob-plus.github.io/blog"/>
     <subtitle>AdMob Plus Blog</subtitle>
     <icon>https://admob-plus.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Release 1.0]]></title>
+        <id>Release 1.0</id>
+        <link href="https://admob-plus.github.io/blog/2020/03/21/release-1.0"/>
+        <updated>2020-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It is a long way to reach the 1.0 release.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How cordova-plugin-admobpro works]]></title>
         <id>How cordova-plugin-admobpro works</id>

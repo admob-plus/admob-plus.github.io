@@ -4,9 +4,16 @@
         <title>AdMob Plus Blog</title>
         <link>https://admob-plus.github.io/blog</link>
         <description>AdMob Plus Blog</description>
-        <lastBuildDate>Sun, 05 Aug 2018 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Release 1.0]]></title>
+            <link>https://admob-plus.github.io/blog/2020/03/21/release-1.0</link>
+            <guid>Release 1.0</guid>
+            <pubDate>Sat, 21 Mar 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[It is a long way to reach the 1.0 release.]]></description>
+        </item>
         <item>
             <title><![CDATA[How cordova-plugin-admobpro works]]></title>
             <link>https://admob-plus.github.io/blog/2018/08/05/how-cordova-plugin-admobpro-works</link>
