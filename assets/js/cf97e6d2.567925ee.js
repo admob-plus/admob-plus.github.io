@@ -1,0 +1,1 @@
+(self.webpackChunkadmob_plus_website=self.webpackChunkadmob_plus_website||[]).push([[1432],{8669:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"cordova","name":"cordova","count":3,"permalink":"/blog/tags/cordova"}')}}]);

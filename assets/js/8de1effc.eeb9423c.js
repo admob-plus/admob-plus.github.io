@@ -1,0 +1,1 @@
+(self.webpackChunkadmob_plus_website=self.webpackChunkadmob_plus_website||[]).push([[3190],{7883:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"capacitor","name":"capacitor","count":1,"permalink":"/blog/tags/capacitor"}')}}]);

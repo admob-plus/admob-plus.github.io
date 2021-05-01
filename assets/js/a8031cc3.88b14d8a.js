@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[70],{140:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"ionic","name":"ionic","count":1,"permalink":"/blog/tags/ionic"}')}}]);
