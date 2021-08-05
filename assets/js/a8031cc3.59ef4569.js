@@ -1,1 +1,0 @@
-(self.webpackChunkadmob_plus_website=self.webpackChunkadmob_plus_website||[]).push([[9774],{5673:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"ionic","name":"ionic","count":1,"permalink":"/blog/tags/ionic"}')}}]);

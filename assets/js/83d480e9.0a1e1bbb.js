@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkadmob_plus_website=self.webpackChunkadmob_plus_website||[]).push([[205],{3672:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"release","name":"release","count":1,"permalink":"/blog/tags/release"}')}}]);
