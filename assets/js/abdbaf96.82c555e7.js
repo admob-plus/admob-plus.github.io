@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkadmob_plus_website=self.webpackChunkadmob_plus_website||[]).push([[4180],{905:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/admob","name":"admob","count":2,"permalink":"/blog/tags/admob"}')}}]);

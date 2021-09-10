@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkadmob_plus_website=self.webpackChunkadmob_plus_website||[]).push([[9342],{1215:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/cordova-plugin-admobpro","name":"cordova-plugin-admobpro","count":1,"permalink":"/blog/tags/cordova-plugin-admobpro"}')}}]);
