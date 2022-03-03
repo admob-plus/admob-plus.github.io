@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkadmob_plus_website=self.webpackChunkadmob_plus_website||[]).push([[9011],{7261:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/capacitor","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
