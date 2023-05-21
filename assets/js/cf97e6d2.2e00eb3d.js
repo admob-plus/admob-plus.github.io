@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkadmob_plus_website=self.webpackChunkadmob_plus_website||[]).push([[1432],{3045:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/cordova","name":"cordova","count":3,"permalink":"/blog/tags/cordova"}')}}]);
