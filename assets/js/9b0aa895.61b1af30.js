@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkadmob_plus_website=self.webpackChunkadmob_plus_website||[]).push([[8429],{5834:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/cordova","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

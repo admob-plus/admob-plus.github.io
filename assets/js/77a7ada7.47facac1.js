@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkadmob_plus_website=self.webpackChunkadmob_plus_website||[]).push([[9631],{3656:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/admob-plus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
